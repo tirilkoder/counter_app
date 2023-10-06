@@ -1,4 +1,4 @@
-// Hente HTML element
+// DOM Manipulation - Hente HTML element 
 
 const display_number = document.querySelector("#display_number");
 
